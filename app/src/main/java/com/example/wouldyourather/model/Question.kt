@@ -13,3 +13,8 @@ data class Option(
     val optionText: String,
     val optionDescription: String
 )
+
+// another class
+data class Documentation(
+    val anything:String
+)
